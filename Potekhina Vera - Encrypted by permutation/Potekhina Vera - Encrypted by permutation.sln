@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Potekhina Vera - Encrypted by permutation", "Potekhina Vera - Encrypted by permutation\Potekhina Vera - Encrypted by permutation.csproj", "{18ADF892-C5DE-4E54-9360-2EE2D064CDBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18ADF892-C5DE-4E54-9360-2EE2D064CDBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18ADF892-C5DE-4E54-9360-2EE2D064CDBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18ADF892-C5DE-4E54-9360-2EE2D064CDBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18ADF892-C5DE-4E54-9360-2EE2D064CDBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
